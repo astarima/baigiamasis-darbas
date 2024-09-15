@@ -1,5 +1,5 @@
   header {
-    font-family: 'Lucida Handwriting', sans-serif;
+    font-family: 'Lucida Calligraphy', sans-serif ;
     background-color: #2de626;
     color: #435440;
     padding: 20px 0;
@@ -7,7 +7,7 @@
   }
 
   body {
-    font-family: 'Lucida Handwriting', sans-serif;
+    font-family: 'Lucida Calligraphy', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #789573;
@@ -28,7 +28,7 @@
   }
 
   p {
-    font-family: 'Lucida Handwriting', sans-serif;
+    font-family: 'Lucida Calligraphy', sans-serif;
     color: black;
     }
 
@@ -89,6 +89,7 @@
   }
 
   button {
+    font-family: 'Lucida Calligraphy', sans-serif;
     background-color: #45a049;
     padding: 10px 20px;
     margin-top: 20px;
@@ -105,7 +106,7 @@
   }
 
   footer {
-    font-family: 'Lucida Handwriting', sans-serif;
+    font-family: 'Lucida Calligraphy', sans-serif;
     background-color: #2de626;
     color: #435440;
     text-align: center;
