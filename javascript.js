@@ -86,7 +86,7 @@ const text8 = document.getElementById('gėlės8');
             window.location.href = "jurginas.html";
         });
     text8.addEventListener('mouseover', function() {
-            text1.style.color = 'green';
+            text8.style.color = 'green';
         
         });
         text8.addEventListener('mouseout', function() {
