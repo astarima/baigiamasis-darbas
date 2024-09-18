@@ -42,10 +42,15 @@
     align-items: center;
   }
 
-  .container1, .container2, .container3, .container4, .container5, .container6, .container7, .container8, img:hover {
+  #img1:hover, #img2:hover, #img3:hover, #img4:hover, #img5:hover, #img6:hover, #img7:hover, #img8:hover {
+    transform: scale(1.1); 
+    box-shadow: 0 8px 12px green; 
+  }
+
+  /* .container img:hover {
     transform: scale(1.1); 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
-  }
+  } */
 
   .text {
     margin-left: auto;
